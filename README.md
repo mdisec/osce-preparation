@@ -1,7 +1,15 @@
 # twitch-osce-preparation
 This repo contains a resources that should be followed step by step during the OSCE preperation.
 
-Please do NOT hasitate to create an issue in order to add resource to the list. 
+Please do NOT hesitate to create an issue in order to add resource to the list. 
+
+## Getting Familiar with Assembly Language
+
+BOOK : Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
+[https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
+
+Videos : x86 Assembly Language and Shellcoding on Linux
+[https://www.pentesteracademy.com/course?id=3](https://www.pentesteracademy.com/course?id=3)
 
 ## Corelan.be Exploit Development Articles
 

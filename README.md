@@ -1,4 +1,4 @@
-# twitch-osce-preparation
+# OSCE Preparation
 This repo contains a resources that should be followed step by step during the OSCE preperation.
 
 Please do NOT hesitate to create an issue in order to add resource to the list. 

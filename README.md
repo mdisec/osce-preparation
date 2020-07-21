@@ -59,3 +59,13 @@ Another awesome resource about exploit development.
 17. [Part 17: Kernel Exploitation -> GDI Bitmap Abuse (Win7-10 32/64bit)](https://www.fuzzysecurity.com/tutorials/expDev/21.html)
 18. [Part 18: Kernel Exploitation -> RS2 Bitmap Necromancy](https://www.fuzzysecurity.com/tutorials/expDev/22.html)
 19. [Part 19: Kernel Exploitation -> Logic bugs in Razer rzpnk.sys](https://www.fuzzysecurity.com/tutorials/expDev/23.html)
+
+## Fuzzing
+
+TODO later
+
+## AV Bypass
+
+TODO later
+https://captmeelo.com/exploitdev/osceprep/2018/07/16/backdoor101-part1.html
+https://captmeelo.com/exploitdev/osceprep/2018/07/21/backdoor101-part2.html

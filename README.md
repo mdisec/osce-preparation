@@ -11,6 +11,9 @@ BOOK : Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing T
 Videos : x86 Assembly Language and Shellcoding on Linux
 [https://www.pentesteracademy.com/course?id=3](https://www.pentesteracademy.com/course?id=3)
 
+Another Video : Reverse Engineering Win32 Applications Course Videos
+[https://www.pentesteracademy.com/course?id=41](https://www.pentesteracademy.com/course?id=41)
+
 ## Corelan.be Exploit Development Articles
 
 One of the greatest resource about getting started with buffer overflows.

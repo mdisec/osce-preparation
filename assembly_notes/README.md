@@ -1,3 +1,0 @@
-## ASSEMBLY NOTES 
-
-
